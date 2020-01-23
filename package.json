@@ -11,7 +11,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
     "@rimiti/react-native-toastify": "1.0.0",
     "prop-types": "^15.5.7",
-    "react-dom": "16.3.0",
+    "react-dom": "16.12.0",
     "react-native-emoji": "1.3.1",
     "react-native-loading-spinner-overlay": "1.0.1",
     "react-native-paper": "2.1.3",

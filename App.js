@@ -4,7 +4,7 @@ import {
   createBottomTabNavigator,
   createStackNavigator
 } from 'react-navigation';
-import { Constants } from 'expo';
+import Constants from 'expo-constants';
 import { Feather } from '@expo/vector-icons';
 import { createStore } from 'redux';
 import { Provider } from 'react-redux';

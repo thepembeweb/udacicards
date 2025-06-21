@@ -1,6 +1,6 @@
 ﻿# Udacicards
 
-> "Udacicards" is a React Native & Redux mobile application that that allows users to study collections of flashcards.
+> "Udacicards" is a React Native & Redux mobile application that allows users to study collections of flashcards.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/256px-React-icon.svg.png) ![](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
 
